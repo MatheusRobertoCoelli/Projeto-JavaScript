@@ -1,3 +1,3 @@
 ### Projetos:
-- Brincando com Palavras: https://editor.p5js.org/mathias2255/full/wxLmDoUpJ
+- Brincando com a Palavra: https://editor.p5js.org/mathias2255/full/wxLmDoUpJ
 - 
